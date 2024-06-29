@@ -34,6 +34,10 @@ Welcome to the HR Analytics Dashboard! 📊 This dashboard provides comprehensiv
 2. **Demographic Insights:** Explore employee demographics such as age, gender, education level, and marital status.
 3. **Job Characteristics:** Analyze job-related metrics including job satisfaction, performance ratings, tenure, and more.
 
+## Screenshot
+
+![HR Analytics Dashboard](HR_DashBoard.jpg)
+
 ## Findings
 
 Upon analyzing the data, several insights may be uncovered:
