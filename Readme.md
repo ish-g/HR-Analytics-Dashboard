@@ -1,5 +1,9 @@
 # HR Analytics Dashboard
 
+## Screenshot
+
+![HR Analytics Dashboard](HR_DashBoard.jpg)
+
 ## Overview
 
 Welcome to the HR Analytics Dashboard! 📊 This dashboard provides comprehensive insights into employee data, focusing on attrition, demographic information, job characteristics, and more. It aims to facilitate data-driven decision-making for HR professionals and business leaders.
@@ -33,10 +37,6 @@ Welcome to the HR Analytics Dashboard! 📊 This dashboard provides comprehensiv
 1. **Attrition Analysis:** Investigate attrition rates and reasons across different employee demographics and job roles.
 2. **Demographic Insights:** Explore employee demographics such as age, gender, education level, and marital status.
 3. **Job Characteristics:** Analyze job-related metrics including job satisfaction, performance ratings, tenure, and more.
-
-## Screenshot
-
-![HR Analytics Dashboard](HR_DashBoard.jpg)
 
 ## Findings
 
