@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-## Screenshot
+## Screenshot | [Live Project Link](https://public.tableau.com/views/HRAnalyticalDashboard_17166495470000/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![HR Analytics Dashboard](HR_DashBoard.jpg)
 
